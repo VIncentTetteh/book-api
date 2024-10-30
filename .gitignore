@@ -3,7 +3,7 @@
 ##
 
 ## Get latest from `dotnet new gitignore`
-Migrations
+*.Migrations
 # dotenv files
 .env
 
@@ -81,6 +81,7 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
+*.Migrations
 *.obj
 *.iobj
 *.pch
